@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868118730182",
+    "project_id": "smartpen-aafd7",
+    "storage_bucket": "smartpen-aafd7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868118730182:android:c0dcd1f3c3034d6d874ec7",
+        "android_client_info": {
+          "package_name": "com.example.smart_pen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYvMbgDVAWcRg95iCUk6sRJA51jVZpJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

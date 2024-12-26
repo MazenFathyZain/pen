@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#f4e2e0"  # Remove the last two digits
+  image: assets/images/splash.png
+
+  android_12:
+    color: "#f4e2e0"  # Remove the last two digits
+    image: assets/images/splash.png
+
+
+    # dart run flutter_native_splash:create --path=flutter_splash_native.yaml
